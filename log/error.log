@@ -52,3 +52,8 @@
 [Mon Sep 29 09:57:09 2014] [error] [client 24.178.172.112] File does not exist: /var/www/vhosts/mycitycouncil.prcapps.com/public_html/assets, referer: http://mycitycouncil.com/
 [Mon Sep 29 09:57:10 2014] [error] [client 24.178.172.112] File does not exist: /var/www/vhosts/mycitycouncil.prcapps.com/public_html/assets, referer: http://mycitycouncil.com/
 [Mon Sep 29 09:57:11 2014] [error] [client 24.178.172.112] File does not exist: /var/www/vhosts/mycitycouncil.prcapps.com/public_html/dist, referer: http://mycitycouncil.com/
+[Mon Sep 29 10:00:27 2014] [error] [client 24.178.172.112] File does not exist: /var/www/vhosts/mycitycouncil.prcapps.com/public_html/theme.css, referer: http://www.mycitycouncil.org/
+[Mon Sep 29 10:00:27 2014] [error] [client 24.178.172.112] File does not exist: /var/www/vhosts/mycitycouncil.prcapps.com/public_html/assets, referer: http://www.mycitycouncil.org/
+[Mon Sep 29 10:00:28 2014] [error] [client 24.178.172.112] File does not exist: /var/www/vhosts/mycitycouncil.prcapps.com/public_html/assets, referer: http://www.mycitycouncil.org/
+[Mon Sep 29 10:00:28 2014] [error] [client 24.178.172.112] File does not exist: /var/www/vhosts/mycitycouncil.prcapps.com/public_html/dist, referer: http://www.mycitycouncil.org/
+[Mon Sep 29 10:00:28 2014] [error] [client 24.178.172.112] File does not exist: /var/www/vhosts/mycitycouncil.prcapps.com/public_html/assets, referer: http://www.mycitycouncil.org/
